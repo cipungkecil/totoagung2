@@ -1,0 +1,23 @@
+{
+  "name": "totoagung2",
+  "main": "./lib/totoagung2",
+  "version": "0.0.0",
+  "description": "Totoagung2 adalah situs judi online slot gacor terpercaya dan terbaik no 1 di indonesia dengan permainan paling lengkap yang gampang menang.",
+  "keywords": [
+    "totoagung2",
+    "totoagung2 login",
+    "totoagung2 slot",
+    "totoagung2 link alternatif",
+    "situs totoagung2"
+  ],
+  "activationCommands": {
+    "atom-workspace": "totoagung2:toggle"
+  },
+  "repository": "https://github.com/cipungkecil/totoagung2",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
